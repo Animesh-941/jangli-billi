@@ -1,3 +1,4 @@
+#lodu_animesh
 
 # CAT USERBOT
 
@@ -18,7 +19,7 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 </p>
 
 
-[![catuserbot logo](https://telegra.ph/file/7e1e89621fabbf02596f8.jpg)](https://heroku.com/deploy)
+[![catuserbot logo](https://telegra.ph/file/2b8543309d25e5755dde3.jpg)](https://t.me/Animesh_941)
 
 
 ### Join [here](https://t.me/catuserbot17) for updates and tuts and [here](https://t.me/catuserbot_support) for discussion and bugs
