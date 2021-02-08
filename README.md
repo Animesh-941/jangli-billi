@@ -1,5 +1,3 @@
-# LODU ANIMESH
-
 # जंगली बिल्ली
 
 ### The Easy Way to deploy the bot
@@ -21,6 +19,7 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 
 [![catuserbot logo](https://telegra.ph/file/2b8543309d25e5755dde3.jpg)](https://t.me/Animesh_941)
 
+MY SELF CHANNELS, BOTS & GROUPS.... JOIN THEM NOW [![JOIN LIBRARIAN CHANNEL](https://t.me/channel_librarian/button.svg)]
 
 ### Join [here](https://t.me/catuserbot17) for updates and tuts and [here](https://t.me/catuserbot_support) for discussion and bugs
 
