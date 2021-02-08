@@ -19,7 +19,7 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 
 [![catuserbot logo](https://telegra.ph/file/2b8543309d25e5755dde3.jpg)](https://t.me/Animesh_941)
 
-MY SELF CHANNELS, BOTS & GROUPS.... JOIN THEM NOW [![JOIN LIBRARIAN CHANNEL](https://www.telegram.com/button.svg)](https://t.me/channel_librarian)
+### MY SELF [CHANNELS](https://t.me/channel_librarian), [BOTS](https://t.me/librarian_notes_bot) & [GROUPS](https://t.me/librarian_institute).... JOIN THEM NOW 
 
 ### Join [here](https://t.me/catuserbot17) for updates and tuts and [here](https://t.me/catuserbot_support) for discussion and bugs
 
@@ -27,7 +27,7 @@ MY SELF CHANNELS, BOTS & GROUPS.... JOIN THEM NOW [![JOIN LIBRARIAN CHANNEL](htt
 
 An example `local_config.py` file could be:
 
-**Not All of the variables are mandatory**
+**Note : All of the variables are mandatory**
 
 __The Userbot should work by setting only the first two variables__
 
